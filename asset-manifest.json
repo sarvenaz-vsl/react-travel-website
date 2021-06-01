@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/react-travel-website/static/css/main.4be3c82c.chunk.css",
-    "main.js": "/react-travel-website/static/js/main.e8ebe093.chunk.js",
-    "main.js.map": "/react-travel-website/static/js/main.e8ebe093.chunk.js.map",
-    "runtime-main.js": "/react-travel-website/static/js/runtime-main.b8022f40.js",
-    "runtime-main.js.map": "/react-travel-website/static/js/runtime-main.b8022f40.js.map",
-    "static/js/2.56db3392.chunk.js": "/react-travel-website/static/js/2.56db3392.chunk.js",
-    "static/js/2.56db3392.chunk.js.map": "/react-travel-website/static/js/2.56db3392.chunk.js.map",
-    "static/js/3.f1539502.chunk.js": "/react-travel-website/static/js/3.f1539502.chunk.js",
-    "static/js/3.f1539502.chunk.js.map": "/react-travel-website/static/js/3.f1539502.chunk.js.map",
+    "main.css": "/react-travel-website/static/css/main.bddc1fbf.chunk.css",
+    "main.js": "/react-travel-website/static/js/main.4ca26e35.chunk.js",
+    "main.js.map": "/react-travel-website/static/js/main.4ca26e35.chunk.js.map",
+    "runtime-main.js": "/react-travel-website/static/js/runtime-main.db315d62.js",
+    "runtime-main.js.map": "/react-travel-website/static/js/runtime-main.db315d62.js.map",
+    "static/js/2.4763d804.chunk.js": "/react-travel-website/static/js/2.4763d804.chunk.js",
+    "static/js/2.4763d804.chunk.js.map": "/react-travel-website/static/js/2.4763d804.chunk.js.map",
+    "static/js/3.6db17393.chunk.js": "/react-travel-website/static/js/3.6db17393.chunk.js",
+    "static/js/3.6db17393.chunk.js.map": "/react-travel-website/static/js/3.6db17393.chunk.js.map",
     "index.html": "/react-travel-website/index.html",
-    "static/css/main.4be3c82c.chunk.css.map": "/react-travel-website/static/css/main.4be3c82c.chunk.css.map",
-    "static/js/2.56db3392.chunk.js.LICENSE.txt": "/react-travel-website/static/js/2.56db3392.chunk.js.LICENSE.txt",
+    "static/css/main.bddc1fbf.chunk.css.map": "/react-travel-website/static/css/main.bddc1fbf.chunk.css.map",
+    "static/js/2.4763d804.chunk.js.LICENSE.txt": "/react-travel-website/static/js/2.4763d804.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-travel-website/static/media/two.bb238fc1.jpg",
     "static/media/first.59e75226.mp4": "/react-travel-website/static/media/first.59e75226.mp4",
-    "static/media/App.css": "/react-travel-website/static/media/img-8.fabdf94d.jpg"
+    "static/media/four.a31875b7.jpg": "/react-travel-website/static/media/four.a31875b7.jpg",
+    "static/media/nine.f97f588f.jpg": "/react-travel-website/static/media/nine.f97f588f.jpg",
+    "static/media/three.6d683c0e.jpg": "/react-travel-website/static/media/three.6d683c0e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8022f40.js",
-    "static/js/2.56db3392.chunk.js",
-    "static/css/main.4be3c82c.chunk.css",
-    "static/js/main.e8ebe093.chunk.js"
+    "static/js/runtime-main.db315d62.js",
+    "static/js/2.4763d804.chunk.js",
+    "static/css/main.bddc1fbf.chunk.css",
+    "static/js/main.4ca26e35.chunk.js"
   ]
 }
